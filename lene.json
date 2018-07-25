@@ -4,7 +4,7 @@
     "name": "Boracay",
     "imageUrl": "https://raw.githubusercontent.com/CharleneBalcita/char/master/Balcita/boracay.jpg",
     "priceCurrency": "km",
-    "price": 721.4,
+    "price": 721.4
     "lat": 11.9674,
     "lng": 121.9248
   },
@@ -13,7 +13,7 @@
     "name": "Baguio",
     "imageUrl": "https://raw.githubusercontent.com/CharleneBalcita/char/master/Balcita/baguio.jpg",
     "priceCurrency": "km",
-    "price": 67.8,
+    "price": 67.8
     "lat": 16.4023,
     "lng": 120.5960
   },
@@ -22,7 +22,7 @@
     "name": "Baluarte",
     "imageUrl": "https://raw.githubusercontent.com/CharleneBalcita/char/master/Balcita/baluarte.jpg",
     "priceCurrency": "km",
-    "price": 91.0,
+    "price": 91.0
     "lat": 17.1018,
     "lng": 120.5538
   },
@@ -31,7 +31,7 @@
     "name": "El nido",
     "imageUrl": "https://raw.githubusercontent.com/CharleneBalcita/char/master/Balcita/El%20nido.jpg",
     "priceCurrency": "km",
-    "price": 899.9,
+    "price": 899.9
     "lat": 11.2097,
     "lng": 119.4623
   },
@@ -40,7 +40,7 @@
     "name": "Chocolate Hills",
     "imageUrl": "https://raw.githubusercontent.com/CharleneBalcita/char/master/Balcita/chocolate%20hills.jpg",
     "priceCurrency": "km",
-    "price": 1204.7,
+    "price": 1204.7
     "lat": 9.8297,
     "lng": 124.1397
   },
@@ -49,7 +49,7 @@
     "name": "Coron",
     "imageUrl": "https://raw.githubusercontent.com/CharleneBalcita/char/master/Balcita/coron.jpg",
     "priceCurrency": "km",
-    "price": 726.4,
+    "price": 726.4
     "lat": 12.0499,
     "lng": 120.1782
   },
@@ -58,7 +58,7 @@
     "name": "Hannahs Resort",
     "imageUrl": "https://raw.githubusercontent.com/CharleneBalcita/char/master/Balcita/Hannahs%20resort.jpg",
     "priceCurrency": "km",
-    "price": 312.9,
+    "price": 312.9
     "lat": 18.6251,
     "lng":120.8573
   },
@@ -67,7 +67,7 @@
     "name": "Hundred Island",
     "imageUrl": "https://raw.githubusercontent.com/CharleneBalcita/char/master/Balcita/Hundred%20Island.jpg",
     "priceCurrency": "km",
-    "price": 139.4,
+    "price": 139.4
     "lat": 16.2040,
     "lng": 120.0409
   },
@@ -76,7 +76,7 @@
     "name": "Laoag",
     "imageUrl": "https://raw.githubusercontent.com/CharleneBalcita/char/master/Balcita/laoag.JPG",
     "priceCurrency": "km",
-    "price": 223.4,
+    "price": 223.4
     "lat": 18.1960,
     "lng": 120.5927
   },
@@ -85,7 +85,7 @@
     "name": "Manila Ocean Park",
     "imageUrl": "https://raw.githubusercontent.com/CharleneBalcita/char/master/Balcita/mnl%20ocean%20park.jpg",
     "priceCurrency": "km",
-    "price": 279.0,
+    "price": 279.0
     "lat": 14.5792,
     "lng": 120.9725
   },
@@ -94,7 +94,7 @@
     "name": "Star City",
     "imageUrl": "https://raw.githubusercontent.com/CharleneBalcita/char/master/Balcita/star%20city.jpg",
     "priceCurrency": "km",
-    "price": 282.7,
+    "price": 282.7
     "lat": 14.5566,
     "lng": 120.9852
   },
@@ -103,7 +103,7 @@
     "name": "Vigan",
     "imageUrl": "https://raw.githubusercontent.com/CharleneBalcita/char/master/Balcita/vigan.jpg",
     "priceCurrency": "km",
-    "price": 145.6 ,
+    "price": 145.6
     "lat": 17.5705,
     "lng": 120.3873
   },
@@ -112,7 +112,7 @@
     "name": "Vitalis",
     "imageUrl": "https://raw.githubusercontent.com/CharleneBalcita/char/master/Balcita/vitalis.jpg",
     "priceCurrency": "km",
-    "price": 99.2,
+    "price": 99.2
     "lat": 17.2884,
     "lng": 120.4280
   },
@@ -121,7 +121,7 @@
     "name": "Thunder Bird",
     "imageUrl": "https://raw.githubusercontent.com/CharleneBalcita/char/master/Balcita/thunder%20bird.jpg",
     "priceCurrency": "km",
-    "price": 15.9,
+    "price": 15.9
     "lat": 14.5252,
     "lng": 121.1913
   },
@@ -130,7 +130,7 @@
     "name": "Mall Of Asia",
     "imageUrl": "https://raw.githubusercontent.com/CharleneBalcita/char/master/Balcita/mall%20of%20asia.jpg",
     "priceCurrency": "km",
-    "price": 200000,
+    "price": 200000
     "lat": 14.5352,
     "lng": 120.9821
   },
@@ -139,7 +139,7 @@
     "name": "Enchanted Kingdom",
     "imageUrl": "https://raw.githubusercontent.com/CharleneBalcita/char/master/Balcita/enchanted%20kingdom.jpg",
     "priceCurrency": "km",
-    "price": 320.7,
+    "price": 320.7
     "lat": 14.2822,
     "lng": 121.0967
   }
