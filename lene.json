@@ -1,6 +1,15 @@
 [
   {
     "id": 145,
+    "name": "BAHAY",
+    "imageUrl": "https://raw.githubusercontent.com/CharleneBalcita/char/master/Balcita/1.png",
+    "priceCurrency": "km",
+    "price": 0,
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 145,
     "name": "Boracay",
     "imageUrl": "https://raw.githubusercontent.com/CharleneBalcita/char/master/Balcita/boracay.jpg",
     "priceCurrency": "km",
