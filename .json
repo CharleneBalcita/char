@@ -1,0 +1,146 @@
+[
+  {
+    "id": 145,
+    "name": "Boracay",
+    "imageUrl": "https://raw.githubusercontent.com/CharleneBalcita/char/master/Balcita/boracay.jpg",
+    "priceCurrency": "₱",
+    "price": 120,
+    "lat": 16.6167,
+    "lng": 120.3197
+  },
+  {
+    "id": 148,
+    "name": "Baguio",
+    "imageUrl": "https://raw.githubusercontent.com/CharleneBalcita/char/master/Balcita/baguio.jpg",
+    "priceCurrency": "₱",
+    "price": 200,
+    "lat": 16.2833,
+    "lng": 120.4833
+  },
+  {
+    "id": 201,
+    "name": "Baluarte",
+    "imageUrl": "https://raw.githubusercontent.com/CharleneBalcita/char/master/Balcita/baluarte.jpg",
+    "priceCurrency": "₱",
+    "price": 50,
+    "lat": 16.8472,
+    "lng": 120.3517
+  },
+  {
+    "id": 201,
+    "name": "El nido",
+    "imageUrl": "https://raw.githubusercontent.com/CharleneBalcita/char/master/Balcita/El%20nido.jpg",
+    "priceCurrency": "₱",
+    "price": 50,
+    "lat": 16.8472,
+    "lng": 120.3517
+  },
+  {
+    "id": 205,
+    "name": "Chocolate Hills",
+    "imageUrl": "https://raw.githubusercontent.com/CharleneBalcita/char/master/Balcita/chocolate%20hills.jpg",
+    "priceCurrency": "₱",
+    "price": 150,
+    "lat": 16.5264,
+    "lng": 120.3294
+  },
+  {
+    "id": 210,
+    "name": "Coron",
+    "imageUrl": "https://raw.githubusercontent.com/CharleneBalcita/char/master/Balcita/coron.jpg",
+    "priceCurrency": "PHP",
+    "price": 150,
+    "lat": 16.3188,
+    "lng": 120.4687
+  },
+  {
+    "id": 210,
+    "name": "Hannahs Resort",
+    "imageUrl": "https://raw.githubusercontent.com/CharleneBalcita/char/master/Balcita/Hannahs%20resort.jpg",
+    "priceCurrency": "PHP",
+    "price": 150,
+    "lat": 16.3188,
+    "lng": 120.4687
+  },
+  {
+    "id": 210,
+    "name": "Hundred Island",
+    "imageUrl": "https://raw.githubusercontent.com/CharleneBalcita/char/master/Balcita/Hundred%20Island.jpg",
+    "priceCurrency": "PHP",
+    "price": 150,
+    "lat": 16.3188,
+    "lng": 120.4687
+  },
+    {
+    "id": 210,
+    "name": "Laoag",
+    "imageUrl": "https://raw.githubusercontent.com/CharleneBalcita/char/master/Balcita/laoag.JPG",
+    "priceCurrency": "PHP",
+    "price": 150,
+    "lat": 16.3188,
+    "lng": 120.4687
+  },
+    {
+    "id": 210,
+    "name": "Manila Ocean Park",
+    "imageUrl": "https://raw.githubusercontent.com/CharleneBalcita/char/master/Balcita/mnl%20ocean%20park.jpg",
+    "priceCurrency": "PHP",
+    "price": 150,
+    "lat": 16.3188,
+    "lng": 120.4687
+  },
+    {
+    "id": 210,
+    "name": "Star City",
+    "imageUrl": "https://raw.githubusercontent.com/CharleneBalcita/char/master/Balcita/star%20city.jpg",
+    "priceCurrency": "PHP",
+    "price": 150,
+    "lat": 16.3188,
+    "lng": 120.4687
+  },
+    {
+    "id": 210,
+    "name": "Vigan",
+    "imageUrl": "https://raw.githubusercontent.com/CharleneBalcita/char/master/Balcita/vigan.jpg",
+    "priceCurrency": "PHP",
+    "price": 150,
+    "lat": 16.3188,
+    "lng": 120.4687
+  },
+    {
+    "id": 210,
+    "name": "Vitalis",
+    "imageUrl": "https://raw.githubusercontent.com/CharleneBalcita/char/master/Balcita/vitalis.jpg",
+    "priceCurrency": "PHP",
+    "price": 150,
+    "lat": 16.3188,
+    "lng": 120.4687
+  },
+  {
+    "id": 210,
+    "name": "Thunder Bird",
+    "imageUrl": "https://raw.githubusercontent.com/CharleneBalcita/char/master/Balcita/thunder%20bird.jpg",
+    "priceCurrency": "PHP",
+    "price": 150,
+    "lat": 16.3188,
+    "lng": 120.4687
+  },
+  {
+    "id": 211,
+    "name": "Mall Of Asia",
+    "imageUrl": "https://raw.githubusercontent.com/CharleneBalcita/char/master/Balcita/mall%20of%20asia.jpg",
+    "priceCurrency": "₱",
+    "price": 200,
+    "lat": 16.6583,
+    "lng": 120.3216
+  },
+    {
+    "id": 211,
+    "name": "Enchanted Kingdom",
+    "imageUrl": "https://raw.githubusercontent.com/CharleneBalcita/char/master/Balcita/enchanted%20kingdom.jpg",
+    "priceCurrency": "₱",
+    "price": 500000,
+    "lat": 16.6167,
+    "lng": 120.3167
+  }
+]
